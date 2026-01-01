@@ -1,0 +1,20 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ===== Virtual env =====
+venv/
+.env/
+
+# ===== Telethon =====
+*.session
+*.session-journal
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+*.log
